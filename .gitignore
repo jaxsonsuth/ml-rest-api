@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Conda 
+.env/
+*.egg-info/
+*.egg/
+.venv/
+env/
+venv/
+
+
+# OS 
+.DS_Store
